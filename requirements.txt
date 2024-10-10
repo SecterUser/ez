@@ -1,0 +1,3 @@
+discord
+aiosocks
+aiohttp_socks
